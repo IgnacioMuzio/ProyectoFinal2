@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1632955311 source:c:\users\win10\desktop\tpfinal lab 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+
+1631279571 c:\users\win10\desktop\tpfinal lab 2\listas.h
+
+1631278108 source:c:\users\win10\desktop\tpfinal lab 2\lsepersona.c
+	"LSEpersona.h"
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1635966526 c:\users\win10\desktop\tpfinal lab 2\lsepersona.h
+	"LibMostrar.h"
+
+1635966318 c:\users\win10\desktop\tpfinal lab 2\libmostrar.h
+
+1637075012 source:c:\users\win10\desktop\tpfinal lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"TDAcanciones.h"
+	"TDAListasDeListas.h"
+
+1636655706 source:c:\users\win10\desktop\tpfinal lab 2\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"string.h"
+
+1636574845 c:\users\win10\desktop\tpfinal lab 2\arbol.h
+
+1637086172 c:\users\win10\desktop\tpfinal lab 2\tdacanciones.h
+	"arbol.h"
+
+1636987827 source:c:\users\win10\desktop\tpfinal lab 2\tdacanciones.c
+	<stdio.h>
+	<stdlib.h>
+	"TDAcanciones.h"
+	<string.h>
+
+1636982885 source:c:\users\win10\desktop\tpfinal lab 2\tdalistasdelistas.c
+	<stdio.h>
+	<stdlib.h>
+	"TDAListasDeListas.h"
+	"string.h"
+
+1636982879 c:\users\win10\desktop\tpfinal lab 2\tdalistasdelistas.h
+	"arbol.h"
+	"TDAcanciones.h"
+
+1636655706 source:c:\users\nacho\desktop\tpfinal lab 2\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"string.h"
+
+1636574845 c:\users\nacho\desktop\tpfinal lab 2\arbol.h
+
+1637086172 source:c:\users\nacho\desktop\tpfinal lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"TDAcanciones.h"
+	"TDAListasDeListas.h"
+
+1637086172 c:\users\nacho\desktop\tpfinal lab 2\tdacanciones.h
+	"arbol.h"
+
+1636982879 c:\users\nacho\desktop\tpfinal lab 2\tdalistasdelistas.h
+	"arbol.h"
+	"TDAcanciones.h"
+
+1636987827 source:c:\users\nacho\desktop\tpfinal lab 2\tdacanciones.c
+	<stdio.h>
+	<stdlib.h>
+	"TDAcanciones.h"
+	<string.h>
+
+1636982885 source:c:\users\nacho\desktop\tpfinal lab 2\tdalistasdelistas.c
+	<stdio.h>
+	<stdlib.h>
+	"TDAListasDeListas.h"
+	"string.h"
+
